@@ -33,7 +33,7 @@
 <h2>У женшин score на отток выше а у мужчин ниже</h2></h2>
 <img src="https://github.com/Vova2808/Outflow_of_users/assets/96084748/8497c88f-540a-416d-98ff-92914c4a7572"><br>
 <h1></h1>
-<h1>Машинное обучение- ML</h1>
+<h1>Машинное обучение - ML</h1>
 <h2>В среднем модель ошибается на 31%</h2>
 <img src="https://github.com/Vova2808/Outflow_of_users/assets/96084748/45f46314-a0ac-4192-8160-ed6398084c0b"><br>
 <h1></h1><br>
